@@ -5,9 +5,9 @@ var profiles = [
         "github" : "srinibasbiswal"
     },    
     {
-        "name" : "Chee Seng Leong",
-        "place" : "Kuala Lumpur, Malaysia",
-        "github" : "csleong98"
+        "name" : "Shivam Sharma",
+        "place" : "Gwalior, India",
+        "github" : "shivam1297"
     },  
     {
         "name" : "Aisha Aqeel",
